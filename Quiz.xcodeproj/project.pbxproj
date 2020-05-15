@@ -153,6 +153,7 @@
 				TargetAttributes = {
 					C7343E9A1A89986900D857EA = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = CCSZM9866X;
 						LastSwiftMigration = 1130;
 					};
 				};
@@ -337,6 +338,7 @@
 		C7343EBB1A89986900D857EA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = CCSZM9866X;
 				INFOPLIST_FILE = Quiz/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -349,6 +351,7 @@
 		C7343EBC1A89986900D857EA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = CCSZM9866X;
 				INFOPLIST_FILE = Quiz/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
