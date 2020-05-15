@@ -39,7 +39,10 @@ class QuizViewController: UIViewController {
         quizArray.append(["「うまい！うますぎる…」風が囁くのは？", "百万石饅頭", "十万石まんじゅう", "一万石饅頭", 2])
         
         //------------------------ここから上にクイズを書く------------------------//
-
+        
+        //quizArrayの中身をシャッフルする
+        quizArray.shuffle()
+        
         choiceQuiz()
     }
     
